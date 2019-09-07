@@ -1,0 +1,52 @@
+html{
+    font-size:12px;
+    /*学习一下注释功能 :) 学这些东西好有趣啊！！*/
+    font-family: 'Roboto Mono', monospace;
+    background-color:rgb(245, 242, 238);
+}
+body{
+    width:600px;
+    border:10px solid rgb(235, 87, 87);
+    margin:200px auto;
+    padding:20px;
+    background-color:white;
+    box-shadow:0px 2px 10px rgb(104, 104, 104);
+}
+#username{
+    text-align:right;
+    color:rgb(240, 108, 108);
+}
+h1{
+  color: rgb(207, 68, 68);
+  text-align:center;
+  margin:0;
+}
+img{
+    width: 80px;
+    display:block;
+    margin:20PX auto;
+}
+a:hover{
+    color:rgb(#c52b2b);
+    border:1px solid black;
+}
+p,li{
+    text-align:center;
+    line-height:2;
+}
+li{
+    font-size:12px;
+    text-shadow:rebeccapurple;
+    color:rgb(97, 77, 124)
+}
+#my-slogan{
+    color:white;
+    background-color:rgb(34, 34, 34);
+}
+button{
+    display:block;
+    background-color:rgb(221, 85, 85);
+    color:white;
+    border:1px;
+    border-block-color:black;
+}
